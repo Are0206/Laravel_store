@@ -28,6 +28,8 @@
 
         <p class="card-text">{{ $viewData["product"]["description"] }}</p> 
 
+        <p class="card-text fw-bold">${{ $viewData["product"]["price"] }}</p>
+
       </div> 
 
     </div> 
