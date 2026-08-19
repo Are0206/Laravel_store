@@ -30,8 +30,6 @@
 
             @endif 
 
- 
-
             <form method="POST" action="{{ route('product.save') }}"> 
 
               @csrf 
